@@ -1,0 +1,7 @@
+[package]
+name = "lofi_rasterizerr"
+version = "0.1.1"
+authors = ["Alih"]
+
+[dependencies]
+image = "*"
